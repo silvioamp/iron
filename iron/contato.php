@@ -1,11 +1,9 @@
 <html>
 <head>
-<link href="style_contato.css" rel="stylesheet" type="text/css">
+
 <link href="style_central_assinante.css" rel="stylesheet" type="text/css">
 <link href="style_acesso_cliente_iron.css" rel="stylesheet" type="text/css">
-
 <link href="../css/iron/style_index.css" rel="stylesheet" type="text/css">
-
 <meta name="title" content="Iron">
 <link href="estilo.css" rel="stylesheet" type="text/css">
 <meta name="author" content="Iron - http://www.iron.com.br">
@@ -32,7 +30,8 @@
 <div id=container>
 	<div id="black-bar">
 		<ul>
-			<li><a href="#">A Empresa</a></li>
+			<li><a href="teste.html">Página Inicial</a></li>
+			<li><a href="empresa.php">A Empresa</a></li>
 			<li><a href="#">Serviços</a></li>
 			<li><a href="contato.php">Contato</a></li>
 			
