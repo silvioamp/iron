@@ -1,0 +1,165 @@
+#conteudo{
+	background:url(../../img/litoral/bg_centro2.gif) repeat-y;
+	float:left;
+	margin:0;
+	padding:0;
+	width:980px;
+}
+#meio{
+	float:left;
+	padding:0;
+	margin:0 4px 0 3px;
+	width:688px;
+}
+#meio .banner_central{
+	float:left;
+}
+#meio h1{
+	background:url(../../img/litoral/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 0 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+}#meio h1{
+	background:url(../../img/litoral/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 0 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+	margin:0 10px 0 0;
+}
+#meio h1 a{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 0 0 0;
+	text-decoration:none;
+}
+#meio h1 a:hover{
+	font:12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 span{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 10px 0 10px;
+}
+#meio h1 .migalha{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 .migalha:hover{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio .servicosatalho{
+	background:#F3F3F3;
+	float:left;
+	margin:0;
+	padding:0 0 40px 0;
+	width:689px;
+}
+#meio .servicosatalho .title{
+	color:#757575;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:15px 0 0 15px;
+}
+#meio .servicosatalho .icone{
+	float:right;
+	margin:10px 30px 0 0;
+	padding:0;
+}
+#meio .servicosatalho #bancos{
+	background:#757575;
+	border:1px solid #ffffff;
+	float:left;
+	list-style:none;
+	margin:17px 0 0 15px;
+	padding:0;
+	width:480px;
+}
+#meio .servicosatalho #bancos li{
+	background:#757575;
+	color:#ffffff;
+	float:left;
+	font:bold 12px Verdana, Geneva, sans-serif;
+	height:25px;
+	line-height:25px;
+	padding:0 0 0 15px;
+	width:465px;
+}
+#meio .servicosatalho #bancos .nome{
+	background:#EDEDED;
+	float:left;
+	height:20px;
+	line-height:20px;
+	padding:0 0 0 15px;
+	width:465px;
+}
+#meio .servicosatalho #bancos .nome a{
+	color:#235685;
+	font:bold 11px Verdana, Geneva, sans-serif;
+	line-height:20px;
+	text-decoration:none;
+}
+#meio .servicosatalho #bancos .nome a:hover{
+	color:#388AD6;
+}
+#meio .servicosatalho #bancos .descricao{
+	background:#F5F5F5;
+	border-bottom:2px solid #d3d3d3;
+	color:#000000;
+	float:left;
+	font:11px Verdana, Geneva, sans-serif;
+	height:20px;
+	line-height:20px;
+	padding:0 0 0 30px;
+	width:450px;
+}
+#meio .servicosatalho #links{
+	float:left;
+	list-style:none;
+	margin:0 0 0 15px;
+	padding:0 0 5px 0;
+	width:140px;
+}
+#meio .servicosatalho #links .titulo{
+	color:#000000;
+	float:left;
+	font:bold 11px Verdana, Geneva, sans-serif;
+	height:20px;
+	line-height:20px;
+	margin:0 0 3px 0;
+	padding:0 0 0 15px;
+	width:125px;
+}
+#meio .servicosatalho #links li{
+	float:left;
+	margin:0;
+	padding:0 0 0 5px;
+	width:125px;
+}
+#meio .servicosatalho #links li a{
+	color:#000000;
+	float:left;
+	font:10px Verdana, Geneva, sans-serif;
+	margin:5px 0 5px 0;
+	text-decoration:none;
+}
+#meio .servicosatalho #links li b{
+	color:#000000;
+	float:left;
+	font:10px Verdana, Geneva, sans-serif;
+	margin:5px 5px 5px 0;
+}
+#meio .servicosatalho #links li a:hover{
+	text-decoration:underline;
+}

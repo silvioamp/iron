@@ -1,0 +1,238 @@
+#conteudo{
+	background:url(../../img/iron/bg_centro2.gif) repeat-y;
+	float:left;
+	margin:0;
+	padding:0;
+	width:980px;
+}
+#meio{
+	float:left;
+	padding:0;
+	margin:0 4px 0 3px;
+	width:688px;
+}
+#meio .banner_central{
+	float:left;
+}
+#meio h1{
+	background:url(../../img/iron/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 0 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+}#meio h1{
+	background:url(../../img/iron/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 0 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+	margin:0 10px 0 0;
+}
+#meio h1 a{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 0 0 0;
+	text-decoration:none;
+}
+#meio h1 a:hover{
+	font:12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 span{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 10px 0 10px;
+}
+#meio h1 .migalha{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 .migalha:hover{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio .servicosatalho{
+	background:#F3F3F3;
+	float:left;
+	margin:0;
+	min-height:337px;
+	padding:0 0 40px 0;
+	width:689px;
+}
+#meio .servicosatalho .title{
+	color:#757575;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:15px 0 0 15px;
+}
+#meio .servicosatalho .icone{
+	float:right;
+	margin:10px 30px 0 0;
+	padding:0;
+}
+#meio .servicosatalho #masterdiv{
+	background:#757575;
+	border:1px solid #ffffff;
+	float:left;
+	list-style:none;
+	margin:17px 0 0 15px;
+	padding:0;
+	width:480px;
+}
+#meio .servicosatalho #masterdiv .menutitle{
+	background:#F5F5F5;
+	color:#000000;
+	float:left;
+	font:11px Verdana, Geneva, sans-serif;
+	line-height:20px;
+	padding:10px 10px 20px 10px;
+	text-align:justify;
+	width:460px;
+}
+#meio .servicosatalho #masterdiv .titulo{
+	background:#757575;
+	color:#ffffff;
+	float:left;
+	font:bold 12px Verdana, Geneva, sans-serif;
+	height:25px;
+	line-height:25px;
+	padding:0 0 0 15px;
+	width:465px;
+}
+#meio .servicosatalho #masterdiv .titulo:hover{
+	background:#757575;
+	color:#ffffff;
+	cursor:default;
+	float:left;
+	height:25px;
+	line-height:25px;
+	padding:0 0 0 15px;
+	width:465px;
+}
+#meio .servicosatalho #masterdiv .menutitle .filmes{
+	flot:left;
+	font:11px Verdana, Geneva, sans-serif;
+	list-style:none;
+	line-height:20px;
+	margin:0;
+	padding:0;
+	width:460px;
+}
+#meio .servicosatalho #masterdiv .menutitle .filmes li label{
+	flot:left;
+	font:bold 11px Verdana, Geneva, sans-serif;
+	margin:0 10px 0 0;
+}
+#meio .servicosatalho #masterdiv .menutitle .cinemas{
+	background:#ffffff;
+	flot:left;
+	margin:15px 0 0 0;
+	padding:0;
+	width:460px;
+}
+#meio .servicosatalho #masterdiv .menutitle .cinemas b{
+	background:#EDEDED;
+	border-top:1px solid #d3d3d3;
+	border-left:1px solid #d3d3d3;
+	border-right:1px solid #d3d3d3;
+	float:left;
+	font:bold 11px Verdana, Geneva, sans-serif;
+	height:25px;
+	line-height:25px;
+	padding:0 0 0 15px;
+	width:443px;
+}
+#meio .servicosatalho #masterdiv .menutitle .cinemas ul{
+	background:#ffffff;
+	border-bottom:1px solid #d3d3d3;
+	border-left:1px solid #d3d3d3;
+	border-right:1px solid #d3d3d3;
+	float:left;
+	list-style:circle;
+	margin:0 7px 0 0;
+	padding:10px 0 7px 0;
+	width:458px;
+}
+#meio .servicosatalho #masterdiv .menutitle .cinemas li{
+	float:left;
+	display:block;
+	margin:0 0 10px 0;
+	padding:0 15px 0 15px;
+	width:430px;
+}
+#meio .servicosatalho #masterdiv .menutitle .cinemas li span{
+	float:left;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	text-align:right;
+	width:70px;
+}
+#meio .servicosatalho #masterdiv .menutitle .cinemas li label{
+	float:left;
+	font:10px Verdana, Geneva, sans-serif;
+	margin:0 0 0 7px;
+	width:300px;
+}
+#meio .servicosatalho #masterdiv .menutitle .cinemas li a{
+	color:#235685;
+	float:left;
+	font:10px Verdana, Geneva, sans-serif;
+	margin:0 0 0 7px;
+	text-decoration:none;
+}
+#meio .servicosatalho #masterdiv .menutitle .cinemas li a:hover{
+	color:#388AD6;
+}
+#meio .servicosatalho #cinemas{
+	float:left;
+	list-style:none;
+	margin:0 0 0 15px;
+	padding:0 0 5px 0;
+	width:160px;
+}
+#meio .servicosatalho #cinemas .titulo{
+	color:#000000;
+	float:left;
+	font:bold 11px Verdana, Geneva, sans-serif;
+	height:20px;
+	line-height:20px;
+	margin:0 0 3px 0;
+	padding:0 0 0 15px;
+	width:125px;
+}
+#meio .servicosatalho #cinemas li{
+	float:left;
+	margin:0;
+	padding:0 0 0 5px;
+	width:170px;
+}
+#meio .servicosatalho #cinemas li a{
+	color:#000000;
+	float:left;
+	font:10px Verdana, Geneva, sans-serif;
+	margin:5px 0 5px 0;
+	text-decoration:none;
+}
+#meio .servicosatalho #cinemas li b{
+	color:#000000;
+	float:left;
+	font:10px Verdana, Geneva, sans-serif;
+	margin:5px 5px 5px 0;
+}
+#meio .servicosatalho #cinemas li a:hover{
+	text-decoration:underline;
+}
+#meio .servicosatalho .programacao{
+	float:left;
+	font:10px Verdana, Geneva, sans-serif;
+	margin:20px 0 0 0;
+	text-align:center;
+	width:689px;
+}

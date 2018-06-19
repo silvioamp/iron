@@ -1,0 +1,137 @@
+#conteudo{
+	background:url(../../img/litoral/bg_centro2.gif) repeat-y;
+	float:left;
+	margin:0;
+	padding:0;
+	width:980px;
+}
+#meio{
+	float:left;
+	margin:0;
+	padding:0 4px 40px 3px;
+	width:688px;
+}
+#meio .banner_central{
+	float:left;
+}
+#meio h1{
+	background:url(../../img/litoral/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 20px 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+	margin:0 10px 0 0;
+}
+#meio h1 a{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 0 0 0;
+	text-decoration:none;
+}
+#meio h1 a:hover{
+	font:12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 span{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 10px 0 10px;
+}
+#meio h1 .migalha{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 .migalha:hover{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio p{
+	font:10px Verdana, Geneva, sans-serif;
+	line-height:200%;
+	margin:20px 15px 20px 15px;
+	text-align:justify;
+}
+#meio .servicos{
+	float:left;
+	margin:5px 0 20px 0;
+}
+#meio .servicos a{
+	background:url(../../img/litoral/bg_servicos.gif) repeat-x;
+	border-top:2px solid #EEEEEE;
+	border-right:2px solid #EEEEEE;
+	border-bottom:none;
+	border-left:2px solid #EEEEEE;
+	float:left;
+	height:72px;
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	width:341px;
+}
+#meio .servicos .border0{
+	border-left:none;
+}
+#meio .servicos .border1{
+	border-left:none;
+	border-bottom:2px solid #EEEEEE;
+}
+#meio .servicos .border2{
+	border-bottom:2px solid #EEEEEE;
+}
+#meio .servicos a:hover{
+	background:url(../../img/litoral/bg_servicos_hover.gif) repeat-x;
+}
+#meio .servicos a img{
+	float:left;
+	margin:8px 0 0 10px;
+}
+#meio .servicos a b{
+	cursor:pointer;
+	float:left;
+	margin:15px 0 3px 10px;
+	width:250px;
+}
+#meio .servicos a p{
+	color:#000;
+	cursor:pointer;
+	float:left;
+	font:9px Verdana, Geneva, sans-serif;
+	margin:0 0 0 10px;
+}
+.hospedagem{
+	color:#910000;
+	font:bold 12px Verdana, Geneva, sans-serif;
+}
+.criacao{
+	color:#095d5c;
+	font:bold 12px Verdana, Geneva, sans-serif;
+}
+.bandaresidencial{
+	color:#ff7e00;
+	font:bold 12px Verdana, Geneva, sans-serif;
+}
+.bandacomercial{
+	color:#d82f00;
+	font:bold 12px Verdana, Geneva, sans-serif;
+}
+.super{
+	color:#1b5e00;
+	font:bold 12px Verdana, Geneva, sans-serif;
+}
+.superfit{
+	color:#6f0c72;
+	font:bold 12px Verdana, Geneva, sans-serif;
+}
+.speedyhome{
+	color:#18327e;
+	font:bold 12px Verdana, Geneva, sans-serif;
+}
+.speedynegocios{
+	color:#29b600;
+	font:bold 12px Verdana, Geneva, sans-serif;
+}

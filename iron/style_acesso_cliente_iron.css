@@ -1,0 +1,206 @@
+#acessoCliente {
+	background:url(../img/iron/bg_geren.jpg) repeat-x;
+	float:left;
+	width:990px;
+}
+#acessoCliente ul{
+	float:left;
+	width:990px;
+}
+#acessoClienteOn{
+	background:url(../img/iron/bg_geren_menor.jpg) repeat-x;
+	color:#606060;
+	float:left;
+	font:bold 12px Verdana, Geneva, sans-serif;
+	height:33px;
+	padding:15px 0 0 188px;
+	text-align:center;
+	width:500px;
+}
+#acessoClienteOn img{
+	float:left;
+	margin:-15px 0 0 15px;
+}
+#acessoClienteOn b{
+	float:left;
+}
+#central_assinante{
+	float:left;
+	margin:7px 0 0 0;
+	padding:0 0 40px 0;
+}
+#conteudo{
+	float:left;
+	margin:0;
+	padding:0;
+	width:980px;
+}
+#conteudo_login img{
+	float:left;
+	margin:0;
+}
+#conteudo_login ul{
+	float:left;
+	margin:0;
+}
+#estrutura{
+	width:689px;
+}
+#estrutura h3{
+	color:#656565;
+	font:bold 13px Verdana, Geneva, sans-serif;
+	margin:20px 0 20px 128px;
+	text-align:center;
+	width:689px;
+}
+#estrutura #conteudo{
+	display:block;
+	float:left;
+	height:89px;
+	margin:0;
+	width:689px;
+}
+#estrutura #conteudo_login ul{
+	float:left;
+	height:70px;
+	list-style:none;
+	margin:27px 0 0 270px;
+	padding:0;
+	width:295px;
+}
+#estrutura #conteudo_login ul li{
+	float:left;
+	height:25px;
+	margin:0 0 0 50px;
+	width:295px;
+}
+#estrutura #conteudo_login ul li label{
+	color:#626262;
+	float:left;
+	height:22px;
+	margin:0;
+	padding:3px 5px 0 0;
+	text-align:right;
+	width:60px;
+}
+#estrutura #conteudo_login #login{
+	border:1px solid #000000;
+	float:left;
+	height:14px;
+	margin:0;
+	width:167px;
+}
+#estrutura #conteudo_login #senha{
+	border:1px solid #000000;
+	float:left;
+	height:14px;
+	margin:0;
+	width:89px;
+}
+#estrutura #conteudo_login #btn{
+	background:url(../img/iron/btn_contato.gif);
+	border:none;
+	float:left;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	height:18px;
+	margin:0 0 0 6px;
+	width:71px;
+}
+#login_cliente{
+	color:#000000;
+	float:left;
+	margin:0 5px 0 0;
+}
+#meio{
+	float:left;
+	margin:0;
+	padding:0 4px 0 3px;
+	width:688px;
+}
+#meio .banner_central{
+	float:left;
+}
+#meio h1{
+	background:url(../img/iron/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 0 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+	margin:0 10px 0 0;
+}
+#meio h1 a{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 0 0 0;
+	text-decoration:none;
+}
+#meio h1 a:hover{
+	font:12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 span{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 10px 0 10px;
+}
+#meio h1 .migalha{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 .migalha:hover{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio .detalhes{
+	color:#757575;
+	float:left;
+	margin:15px;
+}
+#opcao_sair a{
+	color:#a30100;
+	float:left;
+	margin:0 0 0 7px;
+	text-decoration:none;
+}
+#opcao_servicos a{
+	color:#a30100;
+	float:left;
+	margin:0 0 0 7px;
+	text-decoration:none;
+}
+.certificadoIron{
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:20px 0 0 0;
+	text-align:center;
+	width:688px;
+}
+.certificadoIron a{
+	color:#a30100;
+	font:bold 11px Verdana, Geneva, sans-serif;
+}
+.texto{
+	float:left;
+	font:11px Verdana, Geneva, sans-serif;
+	margin:15px 0 0 120px;
+	padding:0;
+	text-align:center;
+	width:689px;
+}
+/*
+ul li{
+	display:none;
+	float:left;
+	margin:0;
+	list-style:none;
+}
+*/
+ul li{
+	float:left;
+	list-style:none;
+}

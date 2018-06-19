@@ -1,0 +1,82 @@
+#conteudo{
+	background:url(../../img/litoral/bg_centro2.gif) repeat-y;
+	float:left;
+	margin:0;
+	padding:0;
+	width:980px;
+}
+#meio{
+	float:left;
+	margin:0;
+	padding:0 4px 0 3px;
+	width:688px;
+}
+#meio .banner_central{
+	float:left;
+}
+#meio h1{
+	background:url(../../img/litoral/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 0 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+	margin:0 10px 0 0;
+}
+#meio h1 a{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 0 0 0;
+	text-decoration:none;
+}
+#meio h1 a:hover{
+	font:12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 span{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 10px 0 10px;
+}
+#meio h1 .migalha{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 .migalha:hover{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio .detalhes{
+	color:#757575;
+	float:left;
+	margin:15px;
+	width:689px;
+}
+#central_assinante{
+	float:left;
+	margin:7px 0 0 0;
+}
+#central_assinante h3{
+	background:url(../../img/litoral/tit_h3.gif) repeat-x;
+	font:bold 12px Verdana, Geneva, sans-serif;
+	height:27px;
+	margin:8px 0 0 0;
+	padding:3px 0 0 16px;
+	width:673px;
+}
+#central_assinante h3 b{
+	color:#000;
+	font:bold 14px Verdana, Geneva, sans-serif;
+	float:left;
+	margin:4px 0 0 10px;
+	text-decoration:none;
+}
+#central_assinante p{
+	font:10px Verdana, Geneva, sans-serif;
+	line-height:200%;
+	margin:15px;
+}

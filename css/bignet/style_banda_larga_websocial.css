@@ -1,0 +1,102 @@
+img{border:none; float:left;}
+#conteudo{
+	background:url(../../img/bignet/bg_centro2.gif) repeat-y;
+	float:left;
+	margin:0;
+	padding:0;
+	width:980px;
+}
+#meio{
+	float:left;
+	margin:0;
+	padding:0 4px 0 3px;
+	width:688px;
+}
+#meio .banner_servicos{
+	float:left;
+}
+#meio h1{
+	background:url(../../img/bignet/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 0 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+	margin:0 10px 0 0;
+}
+#meio h1 a{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 0 0 0;
+	text-decoration:none;
+}
+#meio h1 a:hover{
+	font:12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 span{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 10px 0 10px;
+}
+#meio h1 .migalha{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 .migalha:hover{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio .banner a{
+	background:url(../../img/bignet/bg_websocial.jpg) no-repeat;
+	float:left;
+	height:531px;
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	width:689px;
+}
+#meio .banner a ul{
+	float:left;
+	margin:196px 0 0 14px;
+	padding:0;
+	width:675px;
+}
+#meio .banner a ul li{
+	color:#707070;
+	display:block;
+	font:10px Verdana, Geneva, sans-serif;
+	margin:7px 0 0 0;
+	padding:0;
+}
+#meio .banner a ul li img{
+	margin:5px 5px 0 0;
+
+}
+#meio .banner a b{
+	color:#000;
+	float:left;
+	font:bold 11px Verdana, Geneva, sans-serif;
+	margin:15px 0 0 14px;
+	width:675px;
+}
+#meio .banner a span{
+	color:#000;
+	float:left;
+	font:11px Verdana, Geneva, sans-serif;
+	line-height:20px;
+	margin:5px 0 0 14px;
+	width:375px;
+}
+#meio .banner a span i{
+	float:left;
+	font:italic 9px Verdana, Geneva, sans-serif;
+	margin:7px 0 0 0;
+}
+#meio .bandalargaimg{
+	float:right;
+}

@@ -1,0 +1,107 @@
+/*---------------------
+ central do assinante
+---------------------*/
+#conteudo{
+	background:url(../img/iron/bg_centro2.gif) repeat-y;
+	float:left;
+	margin:0;
+	padding:0;
+	width:980px;
+}
+#meio{
+	float:left;
+	margin:0;
+	padding:0 4px 0 3px;
+	width:688px;
+}
+#meio .banner_central{
+	float:left;
+}
+#meio h1{
+	background:url(../img/iron/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 0 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+	margin:0 10px 0 0;
+}
+#meio h1 a{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 0 0 0;
+	text-decoration:none;
+}
+#meio h1 a:hover{
+	font:12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 span{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 10px 0 10px;
+}
+#meio h1 .migalha{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 .migalha:hover{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio .central_assinante{
+	float:left;
+	min-height:643px;
+	width:692px;
+}
+#meio .central_assinante h2{
+	background:url(../img/iron/bg_utlidades_h3.gif) repeat-x;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	height:26px;
+	margin:13px 0 16px 0;
+	padding:10px 0 0 0;
+	text-align:center;
+	width:689px;
+}
+#meio .central_assinante a{
+	background:url(../img/iron/bg_servicos.gif) repeat-x;
+	border-bottom:2px solid #ffffff;
+	border-right:2px solid #ffffff;
+	color:#000000;
+	float:left;
+	height:72px;
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	width:344px;
+}
+#meio .central_assinante .border0{
+	border-left:none;
+	width:343px;
+}
+#meio .central_assinante a:hover{
+	background:url(../img/iron/bg_servicos_hover.gif) repeat-x;
+}
+#meio .central_assinante a img{
+	float:left;
+	margin:4px 0 0 10px;
+}
+#meio .central_assinante a b{
+	cursor:pointer;
+	float:left;
+	margin:15px 0 3px 10px;
+	width:250px;
+}
+#meio .central_assinante a p{
+	color:#000000;
+	cursor:pointer;
+	float:left;
+	font:9px Verdana, Geneva, sans-serif;
+	margin:0 0 0 10px;
+	width:250px;
+}

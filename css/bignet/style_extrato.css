@@ -1,0 +1,81 @@
+#conteudo{
+	background:url(../../img/bignet/bg_centro2.gif) repeat-y;
+	float:left;
+	margin:0;
+	padding:0;
+	width:980px;
+}
+#meio{
+	float:left;
+	margin:0;
+	padding:0 4px 0 3px;
+	width:688px;
+}
+#meio .banner_central{
+	float:left;
+}
+#meio h1{
+	background:url(../../img/bignet/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 0 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+	margin:0 10px 0 0;
+}
+#meio h1 a{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 0 0 0;
+	text-decoration:none;
+}
+#meio h1 a:hover{
+	font:12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 span{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 10px 0 10px;
+}
+#meio h1 .migalha{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 .migalha:hover{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio .detalhes{
+	color:#757575;
+	float:left;
+	margin:15px;
+}
+#central_assinante{
+	float:left;
+	margin:7px 0 0 0;
+}
+#central_assinante a{
+	color:#000;
+	font:bold 14px Verdana, Geneva, sans-serif;
+	float:left;
+	margin:0;
+	text-decoration:none;
+}
+#central_assinante h2{
+	background:url(../../img/bignet/tit_h2.gif) no-repeat;
+	font:bold 14px Verdana, Geneva, sans-serif;
+	height:22px;
+	margin:0;
+	padding:3px 0 0 16px;
+	width:673px;
+}
+#central_assinante p{
+	font:10px Verdana, Geneva, sans-serif;
+	line-height:200%;
+	margin:15px;
+}

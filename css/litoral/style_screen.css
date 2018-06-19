@@ -1,0 +1,369 @@
+/*-------*/
+/* Geral */
+/*-------*/
+img{border:none;}
+body {
+	margin:0;
+	padding:0;
+	background:url(../../img/litoral/bg.gif) repeat-y center top;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+}
+#corpo{
+	background:#FFF;
+	margin:0 auto;			
+    padding: 0px;
+	width:980px;
+}
+#menu_sup{
+	background:#017dc7;
+	clear:both;
+	float:left;
+	padding:0;
+	width:979px;
+}
+#menu_sup ul{
+	background:#017dc7;
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	text-align: center;
+	width:980px;
+}
+#menu_sup li{
+	background:#017dc7;
+	display:inline;
+	float:left;
+	height:23px;
+}
+#menu_sup li:hover{
+	background:url(../../img/litoral/bg_menu_sup.gif) repeat-x;
+}
+#menu_sup li a{
+	color:#FFF;
+	float:left;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	height:23px;
+	padding:4px 44px 0 45px;
+	text-decoration:none;
+}
+#menu_sup li a:hover{
+	color:#fdff00;
+}
+#menu_sup .aempresa{
+	background:#017dc7;
+	border-right: 2px solid #fff;
+	display:inline;
+	float:left;
+	height:19px;
+	width:69px;
+}
+#menu_sup .aempresa:hover{
+	background:url(../../img/litoral/bg_menu_sup.gif) repeat-x;
+}
+#menu_sup .borda{
+	border-right: 2px solid #fff;
+}
+#topo{
+	background:url(../../img/litoral/bg_topo.jpg) repeat-x;
+	display:block;
+	float:left;
+	height:74px;
+	margin-top:4px;
+	width:980px;
+}
+#topo img{
+	border:none;
+}
+#topo .logo{
+	float:left;
+	height:67px;
+	margin:3px 0 0 50px;
+	width:147px;
+}
+#topo .publicidade{
+	background:url(../../img/litoral/bg_publicidade_topo.gif) no-repeat;
+	float:left;
+	height:62px;
+	margin:5px 0 0 50px;
+	padding:2px 0 0 9px;
+	width:479px;
+}
+#topo .logo2{
+	float:right;
+	height:36px;
+	margin:20px 65px 0 0;
+	width:151px;
+}
+#webmail{
+	background:url(../../img/litoral/bg_webmail.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin-top:4px;
+	padding:0 0 0 55px;
+	width:925px;
+}
+#webmail .img_webmail{
+	float:left;
+}
+#webmail span{
+	color:#000;
+	float:left;
+	font:10px Verdana, Geneva, sans-serif;
+	margin: 7px 3px 0 31px;
+}
+#webmail select{
+	border:1px solid #fdc211;
+	float:left;
+	font: 10px Verdana, Geneva, sans-serif;
+	height:17px;
+	margin:4px 0 0 0;
+	width:90px;
+}
+#webmail input{
+	border:1px solid #fdc211;
+	float:left;
+	font: 10px Verdana, Geneva, sans-serif;
+	height:13px;
+	margin:4px 0 0 0;
+	width:117px;
+}
+#webmail #senha{
+	width:71px;
+}
+#webmail .btn_entrar{
+	background:url(../../img/litoral/btn_procurar_buscas.gif);
+	border:none;
+	color:#565656;
+	cursor:pointer;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	float:left;
+	height:17px;
+	margin:4px 0 0 3px;
+	padding:0;
+	width:53px;
+}
+#webmail #lembrar{
+	background:#fff500;
+	float:left;
+	height:25px;
+	margin:0 0 0 30px;
+	padding:0 0 0 5px;
+	width:120px;
+}
+#webmail .lembrar{
+	border:none;
+	margin:6px 0 0 4px;
+	padding:0;
+	width:13px;
+}
+#webmail p{
+	color:#000;
+	font: 10px Verdana, Geneva, sans-serif;
+	margin:6px 0 0 25px;
+}
+#buscas{
+	background:url(../../img/litoral/bg_buscas.gif) repeat-x;
+	float:left;
+	height:29px;
+	width:980px;
+}
+#buscas .img_busca{
+	float:left;
+	margin:0 0 0 55px;
+}
+#busca_google{
+	float:left;
+}
+#busca_google img{
+	float:left;
+	margin:0 0 0 28px;
+	border:none;
+}
+#busca_google .input_google{
+	border:1px solid #9c9c9c;
+	float:left;
+	font: 10px Verdana, Geneva, sans-serif;
+	height:13px;
+	margin:4px 0 0 3px;
+	width:95px;
+}
+#busca_google .btn_procurar_google{
+	background:url(../../img/litoral/btn_procurar_buscas.gif);
+	border:none;
+	color:#565656;
+	cursor:pointer;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	float:left;
+	height:17px;
+	margin:4px 0 0 3px;
+	padding:0;
+	width:53px;
+}
+#busca_youtube{
+	float:left;
+}
+#busca_youtube img{
+	border:none;
+	float:left;
+	margin:0 0 0 34px;
+}
+#busca_youtube .input_youtube{
+	border:1px solid #9c9c9c;
+	float:left;
+	font: 10px Verdana, Geneva, sans-serif;
+	height:13px;
+	margin:4px 0 0 3px;
+	width:95px;	
+}
+#busca_youtube .btn_procurar_youtube{
+	background:url(../../img/litoral/btn_procurar_buscas.gif);
+	border:none;
+	color:#565656;
+	cursor:pointer;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	float:left;
+	height:17px;
+	margin:4px 0 0 3px;
+	padding:0;
+	width:53px;
+}
+#busca_wikipedia{
+	float:left;
+}
+#busca_wikipedia img{
+	border:none;
+	float:left;
+	margin:0 0 0 34px;
+}
+#busca_wikipedia .input_wikipedia{
+	border:1px solid #9c9c9c;
+	float:left;
+	font: 10px Verdana, Geneva, sans-serif;
+	height:13px;
+	margin:4px 0 0 3px;
+	width:95px;	
+}
+#busca_wikipedia .btn_procurar_wikipedia{
+	background:url(../../img/litoral/btn_procurar_buscas.gif);
+	border:none;
+	color:#565656;
+	cursor:pointer;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	float:left;
+	height:17px;
+	margin:4px 0 0 3px;
+	padding:0;
+	width:53px;
+}
+#esqueda{
+	float:left;
+	margin:0;
+	padding:0;
+	width:142px;
+}
+#esqueda .links{
+	border-bottom:4px solid #fff;
+	float:left;
+	width:140px;
+}
+#esqueda a{
+	background:url(../../img/litoral/bg_menu_princ.gif) repeat-y;
+	border-bottom:1px solid #026aa7;
+	float:left;
+	height:16px;
+	padding:4px 0 0 8px;
+	width:132px;
+	color:#ffffff;
+	font:10px Verdana, Geneva, sans-serif;
+	text-decoration:none;
+}
+#esqueda a:hover{
+	background:#0070b2;
+	color:#ffffff;
+	font:bold 10px Verdana, Geneva, sans-serif;
+}
+#esqueda .titulo{
+	background:url(../../img/litoral/bg_menu_princ_titulo.gif) repeat-x;
+	border-bottom:1px solid #026aa7;
+	cursor: default;
+	float:left;
+	height:16px;
+	padding:4px 0 0 10px;
+	width:130px;
+	color:#fcff00;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	text-decoration:none;
+}
+#esqueda .titulo:hover{
+	background:url(../../img/litoral/bg_menu_princ_titulo.gif) repeat-x;
+	color:#fcff00;
+}
+#direita{
+	float:right;
+	width:142px;
+}
+#direita span{
+	float:left;
+	border-bottom:4px solid #ffffff;
+}
+#direita .espaco{
+	border-bottom:4px solid #FFF;
+}
+#menurodape{
+	background:#F5F5F5;
+	color: #999;
+	float:left;
+	height:20px;
+	margin:4px 0 0 0;
+	padding:3px 0 0 0;
+	text-align:center;
+	width:980px;
+}
+#menurodape a{
+	color: #999;
+	font:10px Verdana, Geneva, sans-serif;
+	padding: 0 5px;
+	text-decoration:none;
+}
+#menurodape a:hover{
+	color:#235685;
+	text-decoration:underline;
+}
+#rodape{
+	background:url(../../img/litoral/bg_rodape.jpg) no-repeat;
+	float:left;
+	height:78px;
+	margin:4px 0 0 0;
+	padding:0;
+	width:980px;
+}
+#rodape ul{
+	list-style:none;
+	float:left;
+	margin:0;
+	padding:30px 0 0 19px;
+}
+#rodape ul li{
+	color:#3e3e3e;
+	font:10px Verdana, Geneva, sans-serif;
+	line-height:160%;
+}
+#rodape .bignet{
+	float:right;
+	height:49px;
+	margin:7px 10px 0 0;
+	width:106px;
+}
+#rodape .iron{
+	float:right;
+	height:49px;
+	margin:5px 10px 0 0;
+	width:81px;
+}
+#rodape .litoral{
+	float:right;
+	height:49px;
+	margin:8px 18px 0 0;
+	width:49px;
+}

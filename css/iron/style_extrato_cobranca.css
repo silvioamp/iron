@@ -1,0 +1,133 @@
+#conteudo{
+	background:url(../../img/iron/bg_centro2.gif) repeat-y;
+	float:left;
+	margin:0;
+	padding:0;
+	width:980px;
+}
+#meio{
+	float:left;
+	margin:0;
+	padding:0 4px 40px 3px;
+	width:688px;
+}
+#meio .banner_central{
+	float:left;
+}
+#meio h1{
+	background:url(../../img/iron/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 0 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+	margin:0 10px 0 0;
+}
+#meio h1 a{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 0 0 0;
+	text-decoration:none;
+}
+#meio h1 a:hover{
+	font:12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 span{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 10px 0 10px;
+}
+#meio h1 .migalha{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 .migalha:hover{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio .detalhes{
+	color:#757575;
+	float:left;
+	margin:15px;
+}
+#central_assinante{
+	float:left;
+	margin:7px 0 0 0;
+}
+#estrutura{
+	width:689px;
+}
+#estrutura h3{
+	color:#656565;
+	font:bold 13px Verdana, Geneva, sans-serif;
+	margin:40px 0 30px 0;
+	text-align:center;
+	width:689px;
+}
+#estrutura #conteudo{
+	background:url(../../img/iron/bg_geren.jpg) repeat-x;
+	display:block;
+	float:left;
+	height:89px;
+	margin:0;
+	width:689px;
+}
+#estrutura #conteudo ul{
+	float:left;
+	height:70px;
+	list-style:none;
+	margin:27px 0 0 120px;
+	padding:0;
+	width:295px;
+}
+#estrutura #conteudo ul li{
+	float:left;
+	height:25px;
+	margin:0 0 0 50px;
+	width:295px;
+}
+#estrutura #conteudo ul li label{
+	color:#626262;
+	float:left;
+	height:22px;
+	margin:0;
+	padding:3px 5px 0 0;
+	text-align:right;
+	width:60px;
+}
+#estrutura #conteudo #login{
+	border:1px solid #000000;
+	float:left;
+	height:14px;
+	margin:0;
+	width:167px;
+}
+#estrutura #conteudo #senha{
+	border:1px solid #000000;
+	float:left;
+	height:14px;
+	margin:0;
+	width:89px;
+}
+#estrutura #conteudo #btn{
+	background:url(../../img/iron/btn_contato.gif);
+	border:none;
+	float:left;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	height:18px;
+	margin:0 0 0 6px;
+	width:71px;
+}
+.texto{
+	float:left;
+	font:11px Verdana, Geneva, sans-serif;
+	margin:40px 0 0 180px;
+	padding:0;
+	text-align:justify;
+	width:330px;
+}

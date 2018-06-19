@@ -1,0 +1,247 @@
+/*-------------
+    Contato
+-------------*/
+#conteudo{
+	background:url(../../img/bignet/bg_centro2.gif) repeat-y;
+	float:left;
+	margin:0;
+	padding:0;
+	width:980px;
+}
+#meio{
+	float:left;
+	margin:0;
+	padding:0 4px 0 3px;
+	width:688px;
+}
+#meio .banner_contato{
+	float:left;
+}
+#meio h1{
+	background:url(../../img/bignet/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 0 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+}#meio h1{
+	background:url(../../img/bignet/bg_tit_internas.gif) repeat-x;
+	float:left;
+	height:29px;
+	margin:4px 0 0 0;
+	width:689px;
+}
+#meio h1 img{
+	float:left;
+	margin:0 10px 0 0;
+}
+#meio h1 a{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 0 0 0;
+	text-decoration:none;
+}
+#meio h1 a:hover{
+	font:12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 span{
+	color:#ffffff;
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:4px 10px 0 10px;
+}
+#meio h1 .migalha{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#meio h1 .migalha:hover{
+	font:bold 12px Verdana, Geneva, sans-serif;
+	text-decoration:underline;
+}
+#contato{
+	float:left;
+	margin:7px 0 0 0;
+}
+#contato h2{
+	background:url(../../img/bignet/tit_h2.gif) repeat-x;
+	font:bold 12px Verdana, Geneva, sans-serif;
+	float:left;
+	height:20px;
+	margin:0;
+	padding:5px 0 0 16px;
+	width:673px;
+}
+#contato h2 b{
+	margin:0 0 0 182px;
+}
+#contato p{
+	float:left;
+	font:10px Verdana, Geneva, sans-serif;
+	line-height:200%;
+	margin:10px 15px 20px 15px;
+}
+#contato .centro{
+	background:#f7f7f7;
+	border-bottom:solid 2px #e6e6e6;
+	border-top:solid 2px #e6e6e6;
+	float:left;
+	min-height:100px;
+	margin:0 0 24px 0;
+	padding:0 0 10px 0;
+	width:689px;
+}
+#contato .centro p{
+	float:left;
+	font:12px Verdana, Geneva, sans-serif;
+	margin:10px 0 15px 17px;
+
+}
+#contato .centro .btn_contato{
+	background:url(../../img/bignet/btn_contato.gif);
+	border:none;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	height:18px;
+	margin:0 0 0 6px;
+	width:71px;
+}
+#contato #nome{
+	background:#fff;
+	border:1px solid #000;
+	height:15px;
+	width:370px;
+}
+#contato #email{
+	background:#fff;
+	border:1px solid #000;
+	height:15px;
+	width:370px;
+}
+#contato #telefone{
+	background:#fff;
+	border:1px solid #000;
+	height:15px;
+	width:370px;
+}
+#contato #celular{
+	background:#fff;
+	border:1px solid #000;
+	height:15px;
+	width:370px;
+}
+
+#contato #experiencia{
+	background:#fff;
+	border:1px solid #000;
+	height:30px;
+	width:370px;
+}
+#contato #area{
+	background:#fff;
+	border:1px solid #000;
+	height:15px;
+	width:290px;
+}
+#contato ul{
+	float:left;
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+#contato ul li{
+	margin:3px 0 0 0;
+	padding:0;
+}
+#contato ul li label{
+	float:left;
+	font:10px Verdana, Geneva, sans-serif;
+	padding:0 10px 0 23px;
+	text-align:right;
+	width:150px;
+}
+#contato ul .csolicitacao{
+	margin:10px 0 0 0;
+}
+#contato ul .chorario{
+	margin:0;
+}
+#horario{
+	margin:3px 0 0 0;
+}
+#contato .centro img{
+	float:right;
+	margin:43px 20px 0 0;
+	width:156px;
+}
+#contato .contato1{
+	border-right:1px solid #cecece;
+	float:left;
+	height:190px;
+	margin:10px 0 0 0;
+	width:320px;
+}
+#contato .contato1 h3{
+	float:left;
+	font:bold 12px Verdana, Geneva, sans-serif;
+	margin:5px 0 0 0;
+	padding:0 0 4px 15px;
+	width:285px;
+}
+#contato .contato1 label{
+	float:left;
+	font:10px Verdana, Geneva, sans-serif;
+	margin:15px 0 0 0;
+	padding:0 0 0 15px;
+	width:150px;
+}
+#contato .contato1 b{
+	float:right;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	margin:15px 0 0 0;
+	width:100px;
+}
+#contato .contato2{
+	float:right;
+	width:325px;
+}
+#contato .contato2 strong{
+	font:bold 10px Verdana, Geneva, sans-serif;
+	float:left;
+	margin:15px 0 6px 0;
+	width:355px;
+}
+#contato .contato2 label{
+	font:10px Verdana, Geneva, sans-serif;
+	float:left;
+	margin:15px 0 0 0;
+	width:155px;
+}
+#contato .contato2 b{
+	font:bold 10px Verdana, Geneva, sans-serif;
+	float:right;
+	margin:15px 0 0 0;
+	width:150px;
+}
+#meio .contato_baixo{
+	float:left;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	padding:20px 0 40px 15px;
+}
+.erro{
+	color:#ff0000;
+	float:left;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	margin:10px 0 0 125px;
+	padding:0 0 10px 0;
+}
+.sucesso{
+	float:left;
+	font:bold 10px Verdana, Geneva, sans-serif;
+	margin:150px 0 0 235px;
+}
+#dep{
+	margin:0 0 0 5px;
+}
