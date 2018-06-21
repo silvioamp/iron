@@ -74,14 +74,14 @@
             <div class="servicosatalho">
             <h2>Selecione um dos serviços abaixo para conhecê-lo detalhadamente:</h2>
             	<a href="hospedagem.php" title="Hospedagem"><img src="../img/iron/servicos_hospedagem.gif" alt="Hospedagem" /><b class="hospedagem">Hospedagem</b><p>Hospede seu site com segurança <br />e tecnologia de ponta.</p></a>
-                <a href="criacao_sites.php" title="Criação de Sites" class="border0"><img src="../img/iron/servicos_criacao.gif" alt="Criação de Sites" /><b class="criacao">Criação de Sites</b><p>Desenvolvemos sites de acordo com o seu <br />gosto e com a identidade da sua empresa.</p></a>
+              <!--  <a href="criacao_sites.php" title="Criação de Sites" class="border0"><img src="../img/iron/servicos_criacao.gif" alt="Criação de Sites" /><b class="criacao">Criação de Sites</b><p>Desenvolvemos sites de acordo com o seu <br />gosto e com a identidade da sua empresa.</p></a>
 
 				<a href="banda_larga_residencial.php" title="Banda Larga Residencial"><img src="../img/iron/servicos_bandaresidencial.gif" alt="Banda Larga Residencial" /><b class="bandaresidencial">Banda Larga Residencial</b><p>Acesso banda larga de alta qualidade <br />com um excelente custo-benef�cio.</p></a>
                 <a href="banda_larga_comercial.php" title="Banda Larga Comercial" class="border0"><img src="../img/iron/servicos_bandacomercial.gif" alt="Banda Larga Comercial" /><b class="bandacomercial">Banda Larga Comercial</b><p>Para empresas que buscam acesso <br />� internet em alta velocidade.</p></a>
 
                 <a href="banda_larga_web1000.php" title="Banda Larga Web1000"><img src="../img/iron/servicos_web1000.gif" alt="Banda Larga Web1000" /><b class="bandaweb1000">Banda Larga Web1000</b><p>Uma alternativa com caracteristicas<br/> voltadas a usu�rios dom�sticos.</p></a>
                 <a href="banda_larga_comercial_ind.php" title="Banda Larga Comercial Individualizado" class="border0"><img src="../img/iron/servicos_bandacomercial_ind.gif" alt="Banda Larga Comercial Individualizado" /><b class="bandacomercialind">Banda Larga Individualizado</b><p>Para empresas de grande porte ou conjuntos<br />comerciais em condom�nios sem viabilidade.</p></a>
-
+-->
                 <a href="speedy_home.php" title="Speedy Home"><img src="../img/iron/servicos_speedyhome.gif" alt="Speedy Home" /><b class="speedyhome">Speedy Home</b><p>Acesso banda larga em parceria <br />com a Telef�nica.</p></a>
                 <a href="speedy_negocios.php" title="Speedy Negócios" class="border0"><img src="../img/iron/servicos_speedynegocios.gif" alt="Speedy Negócios" /><b class="speedynegocios">Speedy Negócios</b><p>Acesso banda larga para as empresas <br />em parceria com a Telefônica. &nbsp;&nbsp;&nbsp;</p></a>
 
