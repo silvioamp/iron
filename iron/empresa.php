@@ -35,6 +35,7 @@
 			<li><a href="empresa.php">A Empresa</a></li>
 			<li><a href="servicos.php">Serviços</a></li>
 			<li><a href="contato.php">Contato</a></li>
+			<li><a href="central.php">Central do Assinante</a></li>
 			
 		</ul>
 	</div>
@@ -83,9 +84,9 @@ include 'includes/topo.php';
 					<img src="../img/iron/servicos_hospedagem.gif" alt="Hospedagem" />
 					<b class="hospedagem">Hospedagem</b><p>Hospede seu site com segurança <br />e tecnologia de ponta.</p>
 				</a>
-<!--                <a href="criacao_sites.php" title="Criação de Sites" class="border0">
-					<img src="../img/iron/servicos_criacao.gif" alt="Criação de Sites" /><b class="criacao">Criação de Sites</b><p>Desenvolvemos sites de acordo com o seu <br />gosto e com a identidade da sua empresa.</p></a>
-				<a href="banda_larga_residencial.php" title="Banda Larga Residencial"><img src="../img/iron/servicos_bandaresidencial.gif" alt="Banda Larga Residencial" /><b class="bandaresidencial">Banda Larga Residencial</b><p>Acesso banda larga de alta qualidade <br />com um excelente custo-benefício.</p></a>
+	            <a href="contratos.php" title="Contratos" class="border0">
+					<img src="../img/iron/central_icon_contratos.gif" alt="Contratos" /><b class="criacao">Contratos</b><p>Veja todos os contratos disponíveis<br />em nosso site.</p></a>
+<!--			<a href="banda_larga_residencial.php" title="Banda Larga Residencial"><img src="../img/iron/servicos_bandaresidencial.gif" alt="Banda Larga Residencial" /><b class="bandaresidencial">Banda Larga Residencial</b><p>Acesso banda larga de alta qualidade <br />com um excelente custo-benefício.</p></a>
                 <a href="banda_larga_comercial.php" title="Banda Larga Comercial" class="border0"><img src="../img/iron/servicos_bandacomercial.gif" alt="Banda Larga Comercial" /><b class="bandacomercial">Banda Larga Comercial</b><p>Para empresas que buscam acesso <br />a internet em alta velocidade.</p></a>-->
                 <a href="super_dial.php" title="Super Dial"><img src="../img/iron/servicos_super.gif" alt="Super Dial" /><b class="super">Super Dial</b><p>Acesso discado, produto ideal <br />com o menor preço da região.</p></a>
                 <a href="super_dial_fit.php" title="Super Dial Fit" class="border0"><img src="../img/iron/servicos_superfit.gif" alt="Super Dial Fit" /><b class="superfit">Super Dial Fit</b><p>Para você que usa a internet para <br />receber e enviar e-mails.</p></a>

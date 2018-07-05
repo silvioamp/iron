@@ -15,7 +15,7 @@
 }
 #black-bar ul{
     position: absolute;
-    transform: translatex(50%);
+    transform: translatex(25%);
 }
 
 #black-bar ul li a{
